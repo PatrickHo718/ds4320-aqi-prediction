@@ -2,7 +2,7 @@
 
 ### Executive Summary
 
-This README now documents a Credit Card Fraud Project for DS-4320 that includes details on name, NetID, DOI, links, and license. It also contains a defined problem statement, rationale, a terminology table, readings, implicit schema, and data dictionary to provide more context to the project.
+This README now documents a Air Quality Prediction Project for DS-4320 that includes details on name, NetID, DOI, links, and license. It also contains a defined problem statement, rationale, a terminology table, readings, implicit schema, and data dictionary to provide more context to the project.
 
 <br>
 
