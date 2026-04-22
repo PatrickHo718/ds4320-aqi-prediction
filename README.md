@@ -14,7 +14,7 @@ This README now documents a Air Quality Prediction Project for DS-4320 that incl
 ### NetID - bqu3tr
 ### DOI - 
 ### Press Release
-[**Tomorrow's Air: A Machine Learning Tool That Predicts Whether the Air You Breathe Will Be Safe**](url)
+[**Tomorrow's Air: A Machine Learning Tool That Predicts Whether the Air You Breathe Will Be Safe**](https://github.com/PatrickHo718/ds4320-aqi-prediction/blob/main/press-release/press-release.md)
 ### Pipeline - [analysis code](https://github.com/PatrickHo718/ds4320-aqi-prediction/blob/main/code/pipeline.ipynb)
 ### License - [MIT](LICENSE)
 
@@ -35,7 +35,7 @@ The general problem of predicting air quality is intentionally broad as it could
 ### Motivation
 Air quality is one of the main environmental determinants of public health. The American Lung Association estimates that nearly half of all Americans live in counties with unhealthy levels of air pollution on at least some days of the year. Poor air quality is associated with increased rates of asthma, cardiovascular disease, and death. The burden that falls disproportionately on low-income communities and communities of color, who are more likely to live near industrial sources of pollution. Despite this, most people have little advance warning of bad air quality days and cannot plan accordingly. A reliable next-day AQI prediction tool could allow vulnerable individuals, such as those with asthma, the elderly, children, to proactively limit outdoor exposure, adjust medication, or seek cleaner indoor environments. This project addresses that gap by building a model trained on real EPA monitoring data.
 ### Press Release Headline and Link
-[**Tomorrow's Air: A Machine Learning Tool That Predicts Whether the Air You Breathe Will Be Safe**](url)
+[**Tomorrow's Air: A Machine Learning Tool That Predicts Whether the Air You Breathe Will Be Safe**](https://github.com/PatrickHo718/ds4320-aqi-prediction/blob/main/press-release/press-release.md)
 
 <br>
 
