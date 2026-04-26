@@ -1,4 +1,4 @@
-# ds4320-aqi-prediction
+# DS 4320 Project 2: AQI Prediction
 
 ### Executive Summary
 
