@@ -119,6 +119,8 @@ To address spatial coverage bias, the project selects cities with dense, well-es
 
 ---
 
+## Metadata
+
 ### Implicit Schema
 
 Each document in the daily_aqi collection follows the structure below. All fields are present in every document; no fields are optional. Nested subdocuments are used to logically group related fields.
@@ -150,7 +152,7 @@ Each document in the daily_aqi collection follows the structure below. All field
 }
 ```
 
-### Data
+### Data Summary
 
 | Collection | Description |
 |------------|-------------|
