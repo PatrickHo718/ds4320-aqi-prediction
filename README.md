@@ -119,6 +119,8 @@ To address spatial coverage bias, the project selects cities with dense, well-es
 
 ---
 
+**Note:** The data dictionary above describes fields as stored in MongoDB. The analysis pipeline derives additional features at query time (yesterday's PM2.5 mean and max, AQI lag, 3-day and 7-day rolling averages) that do not appear in the raw documents. 
+
 ### Implicit Schema
 
 Each document in the daily_aqi collection follows the structure below. All fields are present in every document; no fields are optional. Nested subdocuments are used to logically group related fields.
