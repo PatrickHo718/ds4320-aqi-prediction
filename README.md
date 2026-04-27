@@ -12,7 +12,7 @@ This README now documents a Air Quality Prediction Project for DS-4320 that incl
 
 ### Name - Mu Patrick Ho
 ### NetID - bqu3tr
-### DOI - [![DOI](https://zenodo.org/badge/1177391857.svg)](https://doi.org/10.5281/zenodo.19337554)
+### DOI - [![DOI](https://zenodo.org/badge/1209902687.svg)](https://doi.org/10.5281/zenodo.19821515)
 ### Press Release
 [**Tomorrow's Air: A Machine Learning Tool That Predicts Whether the Air You Breathe Will Be Safe**](https://github.com/PatrickHo718/ds4320-aqi-prediction/blob/main/press-release/press-release.md)
 ### Pipeline - [analysis code](https://github.com/PatrickHo718/ds4320-aqi-prediction/blob/main/code/pipeline.ipynb)
