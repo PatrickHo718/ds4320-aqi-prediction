@@ -119,8 +119,6 @@ To address spatial coverage bias, the project selects cities with dense, well-es
 
 ---
 
-**Note:** The data dictionary above describes fields as stored in MongoDB. The analysis pipeline derives additional features at query time (yesterday's PM2.5 mean and max, AQI lag, 3-day and 7-day rolling averages) that do not appear in the raw documents. 
-
 ### Implicit Schema
 
 Each document in the daily_aqi collection follows the structure below. All fields are present in every document; no fields are optional. Nested subdocuments are used to logically group related fields.
@@ -178,6 +176,8 @@ Each document in the daily_aqi collection follows the structure below. All field
 | `observation_count` | integer | Number of individual sub-daily samples that contributed to the daily summary | `1` |
 | `observation_percent` | float | Percentage of expected observations that were actually recorded (completeness indicator) | `100.0` |
 | `source` | string | Origin of the data record; always `"EPA AQS API"` for all documents in this collection | `"EPA AQS API"` |
+
+**Note:** The data dictionary above describes fields as stored in MongoDB. The analysis pipeline derives additional features at query time (yesterday's PM2.5 mean and max, AQI lag, 3-day and 7-day rolling averages) that do not appear in the raw documents. 
 
 ### Quantification of Uncertainty
 
